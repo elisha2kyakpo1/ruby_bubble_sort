@@ -4,7 +4,7 @@
 
 ## Project description. 
 
-In this project, the you will implement the bubble sort algorithm. Assignment is focused on the use of yield and passing a block to a method.
+In this project, we implemented the bubble sort algorithm. Assignment is focused on the use of yield and passing a block to a method.
 
 Full task description: [link](https://www.theodinproject.com/courses/ruby-programming/lessons/bubble-sort)
 
@@ -18,7 +18,7 @@ Full task description: [link](https://www.theodinproject.com/courses/ruby-progra
 👤 **Elisha Kyakopo**
 
 - GitHub: [@elisha2kyakpo1](https://github.com/elisha2kyakpo1)
-- LinkedIn: [LinkedIn]()
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/elisha-kyakopo-009aa3197/)
 
 
 👤 **Angel Barros**
